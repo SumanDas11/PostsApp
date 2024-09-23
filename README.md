@@ -4,7 +4,8 @@
  * Date: Sep 23, 2024
  * Description:
  * EComApp design using MERN
- * 
+ * Used in client: Context api, axios, modal, custom components
+ * Used in server: 
  * Usage:
  * Compile:
  * Run:
